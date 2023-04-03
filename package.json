@@ -1,0 +1,13 @@
+{
+  "name": "bot-gpt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:warmercolor/bot-gpt.git",
+  "author": "Thaisa Alice <thaisalic3@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
