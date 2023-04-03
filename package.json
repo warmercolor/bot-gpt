@@ -6,7 +6,7 @@
   "author": "Thaisa Alice <thaisalic3@icloud.com>",
   "license": "ISC",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^14.9.0",
